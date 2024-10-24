@@ -14,3 +14,7 @@ if has_ticket:
     # 3
 else:
     print('brother please buy ticket')
+"""
+你好 python
+老师打卡机福利卡时间f
+"""
